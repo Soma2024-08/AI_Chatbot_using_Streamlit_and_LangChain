@@ -18,24 +18,24 @@ This project is an AI-powered chatbot built using Streamlit, LangChain, and Goog
 
 **Technologies Used**:
 
-Python
+1.Python
 
-Streamlit
+2.Streamlit
 
-LangChain
+3.LangChain
 
-Google Gemini API
+4.Google Gemini API
 
-dotenv (for environment variable management)
+5.dotenv (for environment variable management)
 
 **Create and activate a virtual environment**:
 
-python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
+    python -m venv venv
+    source venv/bin/activate  # On Windows: venv\Scripts\activate
 
 **Install dependencies**:
 
-pip install -r requirements.txt
+    pip install -r requirements.txt
 
 **Set up environment variables**:
 
@@ -43,4 +43,4 @@ pip install -r requirements.txt
 2. Add your Google Gemini API key: GEMINI_API_KEY=your_api_key_here
 
 **Run the chatbot**:
-streamlit run <your file name >.py
+    streamlit run AI_Chatbot.py
