@@ -7,25 +7,17 @@ This project is an AI-powered chatbot built using Streamlit, LangChain, and Goog
 **Features**:
 
 1. Conversational AI using Google Gemini API
-
 2. Chat history retention with LangChain's ConversationBufferMemory
-
 3. User-friendly interface built with Streamlit
-
 4. State management for storing chat history
-
 5. Secure API handling using environment variables
 
 **Technologies Used**:
 
 1.Python
-
 2.Streamlit
-
 3.LangChain
-
 4.Google Gemini API
-
 5.dotenv (for environment variable management)
 
 **Create and activate a virtual environment**:
